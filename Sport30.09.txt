@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:-1,RMC SPORT 1 FR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412880
+#EXTINF:-1,RMC SPORT 2 FR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412881
+#EXTINF:-1,RMC SPORT LIVE 3 FR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412882
+#EXTINF:-1,TNT SPORTS 2 UK
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412883
+#EXTINF:-1,TNT SPORTS 3 UK
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412884
+#EXTINF:-1,TNT SPORTS 4 UK
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412885
+#EXTINF:-1,TNT SPORTS 5 UK
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412886
+#EXTINF:-1,DAZN 1 DE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412887
+#EXTINF:-1,DAZN 2 DE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412888
+#EXTINF:-1,DAZN 3 DE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412889
+#EXTINF:-1,DAZN 4 DE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412890
+#EXTINF:-1,DAZN 5 DE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412891
+#EXTINF:-1,DAZN 6 DE
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412892
+#EXTINF:-1,SKY SPORT UNO IT
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412893
+#EXTINF:-1,SKY SPORT FOOTBALL IT
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412894
+#EXTINF:-1,COSMOTE SPORT 1 GR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412895
+#EXTINF:-1,COSMOTE SPORT 2 GR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412896
+#EXTINF:-1,COSMOTE SPORT 3 GR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412897
+#EXTINF:-1,COSMOTE SPORT 4 GR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412898
+#EXTINF:-1,COSMOTE SPORT 5 GR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412899
+#EXTINF:-1,COSMOTE SPORT 6 GR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412900
+#EXTINF:-1,COSMOTE SPORT HIGHLIGHTS GR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412901
+#EXTINF:-1,M+ LIGA DE CAMPEONES 1 ES
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412902
+#EXTINF:-1,M+ LIGA DE CAMPEONES 2 ES
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412903
+#EXTINF:-1,M+ LIGA DE CAMPEONES 3 ES
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412904
+#EXTINF:-1,M+ LIGA DE CAMPEONES 4 ES
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412905
+#EXTINF:-1,M+ LIGA DE CAMPEONES 5 ES
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412906
+#EXTINF:-1,M+ LIGA DE CAMPEONES 6 ES
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412907
+#EXTINF:-1,ELEVEN SPORTS 1 PT
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412908
+#EXTINF:-1,ELEVEN SPORTS 2 PT
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412909
+#EXTINF:-1,ELEVEN SPORTS 3 PT
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412910
+#EXTINF:-1,ELEVEN SPORTS 4 PT
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412911
+#EXTINF:-1,ELEVEN SPORTS 5 PT
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412912
+#EXTINF:-1,ELEVEN SPORTS 6 PT
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412913
+#EXTINF:-1,MATCH! FOOTBALL 1 RU
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412914
+#EXTINF:-1,MATCH! FOOTBALL 2 RU
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412915
+#EXTINF:-1,MATCH! FOOTBALL 3 RU
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412916
+#EXTINF:-1,ZIGGO SPORT NL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412917
+#EXTINF:-1,ZIGGO SPORT SELECT NL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412918
+#EXTINF:-1,ZIGGO SPORT VOETBAL NL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412919
+#EXTINF:-1,ZIGGO SPORT RACING NL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412920
+#EXTINF:-1,ARENA SPORT 1 BIH
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412921
+#EXTINF:-1,ARENA SPORT 1 SR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412922
+#EXTINF:-1,ARENA SPORT 2 SR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412923
+#EXTINF:-1,ARENA SPORT 3 SR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412924
+#EXTINF:-1,ARENA SPORT 4 SR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412925
+#EXTINF:-1,ARENA SPORT 5 SR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412926
+#EXTINF:-1,ARENA SPORT 1 HR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412927
+#EXTINF:-1,ARENA SPORT 2 HR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412928
+#EXTINF:-1,ARENA SPORT 3 HR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412929
+#EXTINF:-1,ARENA SPORT 4 HR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412930
+#EXTINF:-1,ARENA SPORT 5 HR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412931
+#EXTINF:-1,ARENA SPORT 6 HR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412932
+#EXTINF:-1,ARENA SPORT 7 HR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412933
+#EXTINF:-1,ARENA SPORT 8 HR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412934
+#EXTINF:-1,ARENA SPORT 9 HR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412935
+#EXTINF:-1,ARENA SPORT 10 HR
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412936
+#EXTINF:-1,POLSAT SPORT PREM. 1 PL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412937
+#EXTINF:-1,POLSAT SPORT PREM. 2 PL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412938
+#EXTINF:-1,POLSAT SPORT PREM. 3 PL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412939
+#EXTINF:-1,POLSAT SPORT PREM. 4 PL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412940
+#EXTINF:-1,POLSAT SPORT PREM. 5 PL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412941
+#EXTINF:-1,POLSAT SPORT PREM  PPV6 PL
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/412942
+#EXTINF:-1,|AR| BEIN SPORTS 1 4K
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/6814
+#EXTINF:-1,|AR| BEIN SPORTS 1 BG
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/402504
+#EXTINF:-1,|AR| BEIN SPORTS 2 4K
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/6823
+#EXTINF:-1,|AR| BEIN SPORTS 2 BG
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/402505
+#EXTINF:-1,|AR| BEIN SPORTS 3 4K
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/6815
+#EXTINF:-1,|AR| BEIN SPORTS 3 BG
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/402506
+#EXTINF:-1,|AR| BEIN SPORTS 4 4K
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/6818
+#EXTINF:-1,|AR| BEIN SPORTS 4 BG
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/402507
+#EXTINF:-1,|AR| BEIN SPORTS 5 4K
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/6817
+#EXTINF:-1,|AR| BEIN SPORTS 5 BG
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/402508
+#EXTINF:-1,|AR| BEIN SPORTS 6 4K
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/6819
+#EXTINF:-1,|AR| BEIN SPORTS 6 BG
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/402509
+#EXTINF:-1,|AR| BEIN SPORTS 7 4K
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/6820
+#EXTINF:-1,|AR| BEIN SPORTS 7 BG
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/402510
+#EXTINF:-1,|AR| BEIN SPORTS 8 4K
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/6821
+#EXTINF:-1,|AR| BEIN SPORTS 8 BG
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/402511
+#EXTINF:-1,|AR| BEIN SPORTS 9 4K
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/6822
+#EXTINF:-1,|AR| BEIN SPORTS 9 BG
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/402512
+#EXTINF:-1,|AR| BEIN SPORTS 1 ENGLISH 4k 
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/63495
+#EXTINF:-1,|AR| BEIN SPORTS 1 FRENCH 4K 
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/105256
+#EXTINF:-1,|AR| BEIN SPORTS XTRA 1 4K
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/117761
+#EXTINF:-1,|AR| BEIN SPORTS XTRA 2 4K
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/117762
+#EXTINF:-1,|AR| BEIN SPORTS XTRA 3 4K
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/14710
+#EXTINF:-1,|AR| BEIN SPORTS AFC 4K
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/177006
+#EXTINF:-1,|AR| BEIN SPORTS AFC 1 4K
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/177007
+#EXTINF:-1,|AR| BEIN SPORTS NBA 4K
+http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/336789
